@@ -4,6 +4,7 @@ It dispenses medicine on schedule, provides water, and alerts the user using aud
 
 🚀 Features
 ⏰ Scheduled medicine dispensing
+
 💊 Automatic compartment rotation (Servo)
 🚰 Water dispensing system (DC pump)
 🔊 Voice alerts via speaker
