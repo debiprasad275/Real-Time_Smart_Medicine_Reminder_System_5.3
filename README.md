@@ -2,3 +2,5 @@
 
 ## Step 1 - Update System
 Boot your Raspberry Pi and open terminal.
+    sudo apt update
+    sudo apt upgrade -y
